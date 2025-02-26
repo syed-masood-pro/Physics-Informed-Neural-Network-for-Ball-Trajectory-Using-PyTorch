@@ -51,8 +51,8 @@ pip install torch numpy matplotlib
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/PINN-for-Ball-Trajectory.git
-cd PINN-for-Ball-Trajectory
+git clone https://github.com/syed-masood-pro/Physics-Informed-Neural-Network-for-Ball-Trajectory-Using-PyTorch.git
+cd Physics-Informed-Neural-Network-for-Ball-Trajectory-Using-PyTorch.git
 ```
 2. Run the Code
     * <ul>Jupyter Notebook: Open the notebook file and run all cells sequentially.</ul>
