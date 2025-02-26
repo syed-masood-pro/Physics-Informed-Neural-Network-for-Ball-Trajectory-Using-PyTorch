@@ -56,12 +56,6 @@ cd Physics-Informed-Neural-Network-for-Ball-Trajectory-Using-PyTorch.git
 ```
 2. Run the Code
     * <ul>Jupyter Notebook: Open the notebook file and run all cells sequentially.</ul>
-    * <ul>Python Script: Execute the script directly:
-    
-    ```bash
-     python your_script_name.py
-    ```
-    </ul>
 
 ## Code Structure
 
